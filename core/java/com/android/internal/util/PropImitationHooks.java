@@ -55,6 +55,7 @@ public class PropImitationHooks {
     private static final String PACKAGE_EMOJIWALLPAPER = "com.google.android.apps.emojiwallpaper";
 
     private static final String PACKAGE_FINSKY = "com.android.vending";
+    private static final String PACKAGE_GBOARD = "com.google.android.inputmethod.latin";
     private static final String PACKAGE_GMS = "com.google.android.gms";
     private static final String PACKAGE_KEEP = "com.google.android.keep";
 
